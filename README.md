@@ -27,12 +27,3 @@ Upload these projects to your google drive, and then follow the instructions tha
 ![alt text](https://github.com/uakarsh/med-vqa/blob/main/results/Screenshot%202021-04-28%20115653.jpg?raw=true)
 ![alt text](https://github.com/uakarsh/med-vqa/blob/main/results/Screenshot%202021-04-28%20115717.jpg?raw=true)
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uakarsh)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</details>
-
